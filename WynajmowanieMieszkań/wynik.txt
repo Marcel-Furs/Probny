@@ -1,0 +1,54 @@
+Warszawa
+3
+zabka 50 80
+biedronka 51 87
+cinemacity 15 55
+2
+BlokA
+55 66
+1
+Komunalne 80 4 10 1 2
+20000 metraz 1 1
+10000 metraz 0 1
+BlokB
+5 66
+1
+Zakladowe 25 3 6 0 2
+30000 metraz 0 0
+100000 metraz 1 1
+Poznan
+2
+tesco 20 50
+biedronka 11 7
+1
+BlokC
+15 56
+1
+Komunalne 100 5 3 1 2
+120000 metraz 1 1
+110000 metraz 0 1
+Katowice
+3
+zabka 20 10
+przedszkole 521 87
+apteka 1 2
+1
+Blok_Tysiaclecia
+100 100
+1
+Komunalne 50 5 8 1 2
+220000 metraz 1 1
+210000 metraz 0 1
+Gdansk
+4
+zabka 30 66
+Lidl 21 47
+Szkola 115 55
+Apteka 222 510
+1
+Blok_Westerplatte
+10 20
+1
+Komunalne 28 4 10 1 2
+10000 metraz 1 1
+20000 metraz 0 1
